@@ -53,11 +53,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgesharma1208&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesharma1208&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=durgesharma1208&theme=highcontrast&hide_border=false&border_radius=12&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" />
 </p>
 ## 🔥 GitHub Streak
 

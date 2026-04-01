@@ -1,55 +1,20 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sharma</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Frontend Software Engineer</h3>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Web Developer</h3>
 
 <p align="center">
-  Passionate about building responsive, real-world web applications and consistently solving algorithmic problems for software engineering placements.
+  Passionate about building real-world web applications, strengthening backend fundamentals, and preparing seriously for software engineering placements.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Currently focusing on **modern frontend architecture** and advanced UI development.
-- 🧠 **Problem Solving:** Intermediate at Data Structures & Algorithms; actively pushing to solve harder problems for technical interviews.
-- 🌱 Up-skilling in **Advanced JavaScript, React/Next.js, and Frontend System Design**.
-- 🤝 Open to collaborating on **full-stack web projects** and **beginner-friendly open source**.
-- ⚡ Fun fact: I maintain consistency by balancing coding, cricket, and interview preparation.
-
----
-
-## 🏆 Featured Projects
-> **Note:** *Recruiters check projects before stats. Link your top 2-3 here.*
-
-- 🔗 **[Project Name 1](Link to Repo/Live Demo)** - Built with React & Tailwind. Solved [Specific Problem/Feature].
-- 🔗 **[Project Name 2](Link to Repo/Live Demo)** - Full-stack app handling [Data/API] with a highly interactive frontend.
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### ⚙️ Backend & Database *(Familiar)*
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgesharma1208&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesharma1208&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+- 💻 Currently working on **web development projects** and improving **backend fundamentals**
+- 🌱 Learning **Data Structures & Algorithms, JavaScript, DBMS, Computer Networks, and modern backend development**
+- 🤝 Looking to collaborate on **full-stack web projects**, **beginner-friendly open source**, and **practical coding projects**
+- 🫶 Looking for help with **advanced JavaScript**, **backend architecture**, and **problem-solving for placements**
+- 💬 Ask me about **Java, JavaScript, SQL, DBMS, Computer Networks, and web development**
+- ⚡ Fun fact: **I enjoy combining coding, cricket, and consistent placement preparation**
 
 ---
 
@@ -62,4 +27,69 @@
   <a href="mailto:durgesharma1208@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
+  <a href="https://github.com/durgesharma1208" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 </p>
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,render,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=durgesharma1208&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesharma1208&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=durgesharma1208&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=durgesharma1208&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Goals for 2026
+
+- ✅ Build strong **full-stack projects**
+- ✅ Improve **DSA for placements**
+- ✅ Master **backend development**
+- ✅ Contribute to **open source**
+- ✅ Crack a great **software engineering internship / placement**
+
+---
+
+## ✨ Quote I Follow
+
+> **"Consistency beats motivation."**
+
+---

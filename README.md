@@ -46,9 +46,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,render,vscode" />
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode" />
 </p>
 
 ---
@@ -58,13 +59,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=durgesharma1208&theme=highcontrast&hide_border=false&border_radius=12&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" />
 </p>
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=durgesharma1208&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 

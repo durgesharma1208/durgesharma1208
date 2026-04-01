@@ -37,12 +37,12 @@
 ## 💻 Tech Stack
 
 ### 🚀 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css" />
 </p>
 
 ### ⚙️ Backend & Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 

@@ -1,24 +1,95 @@
-# 💫 About Me:
-💻 I’m currently working on web development projects and strengthening my backend fundamentals with JavaScript, Node.js, Express, and MongoDB<br>🤝 I’m looking to collaborate on full-stack web projects, beginner-friendly open source, and practical coding projects<br>🫶 I’m looking for help with advanced JavaScript, backend architecture, and improving problem-solving for placements<br>🌱 I’m currently learning Data Structures & Algorithms, JavaScript, DBMS, Computer Networks, and modern backend development<br>💬 Ask me about Java, JavaScript, SQL, DBMS, Computer Networks, and beginner-to-intermediate web development<br>⚡ Fun fact: I love combining coding, cricket, and consistent placement preparation
+<h1 align="center">Hi 👋, I'm Durgesh Sharma</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Full-Stack Web Developer</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/durgesh-sharma-64260b33b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgesharma1208@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=durgesharma1208&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=durgesharma1208&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesharma1208&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=durgesharma1208&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=durgesharma1208&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  Passionate about building real-world web applications, strengthening backend fundamentals, and preparing seriously for software engineering placements.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=durgesharma1208&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Currently working on **web development projects** and improving **backend fundamentals**
+- 🌱 Learning **Data Structures & Algorithms, JavaScript, DBMS, Computer Networks, and modern backend development**
+- 🤝 Looking to collaborate on **full-stack web projects**, **beginner-friendly open source**, and **practical coding projects**
+- 🫶 Looking for help with **advanced JavaScript**, **backend architecture**, and **problem-solving for placements**
+- 💬 Ask me about **Java, JavaScript, SQL, DBMS, Computer Networks, and web development**
+- ⚡ Fun fact: **I enjoy combining coding, cricket, and consistent placement preparation**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/durgesh-sharma-64260b33b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:durgesharma1208@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://github.com/durgesharma1208" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,render,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=durgesharma1208&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesharma1208&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=durgesharma1208&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=durgesharma1208&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Goals for 2026
+
+- ✅ Build strong **full-stack projects**
+- ✅ Improve **DSA for placements**
+- ✅ Master **backend development**
+- ✅ Contribute to **open source**
+- ✅ Crack a great **software engineering internship / placement**
+
+---
+
+## ✨ Quote I Follow
+
+> **"Consistency beats motivation."**
+
+---

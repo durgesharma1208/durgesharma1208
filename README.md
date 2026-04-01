@@ -20,7 +20,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/durgesh-sharma-64260b33b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -61,13 +61,11 @@
 </p>
 
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=durgesharma1208&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesharma1208&theme=github_dark" />
 </p>
-
----
 
 ## 📌 Goals for 2026
 
